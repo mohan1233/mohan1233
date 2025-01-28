@@ -1,23 +1,18 @@
 ![logo](https://github.com/mohan1233/MohanReddy-Mekala/blob/main/Banner.jpg)
-### 💻 **MohanReddy Mekala** | Full-stack Developer
+<h1 align="center">Hi 👋, I'm MohanReddy Mekala</h1>
+<h3 align="center">Passionate Software Engineer | Actively Seeking Opportunities in Software Engineering</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
-#### 🌟 **A passionate Computer Science student and aspiring developer.**
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Coding" width="400" />
-</p>
-
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan1233&label=Profile%20views&color=0e75b6&style=flat" alt="mohan1233" /> </p> 
 
 ### 📍 **Reach Out to Me:**
-- 📫 Email: [mekalamohan2003@gmail.com](mailto:mekalamohan2003@gmail.com)
-- 💬 **Feel free to ask me about:** Full-stack development, Java programming, modern frameworks, or anything related to coding and software development.
-  
----
+  - 📫 Email: [mekalamohan2003@gmail.com](mailto:mekalamohan2003@gmail.com)
+
+- ⚡ Fun fact **I am funny😅**
 
 ### 🌐 **Connect with Me:**
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/mekala-mohan-reddy-7b5511237" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
   <a href="https://www.hackerrank.com/mekalamohan2003" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40" /></a>
   <a href="https://www.leetcode.com/mohanreddy_m" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" /></a>
@@ -28,7 +23,7 @@
 
 ### 🛠 **Languages and Tools:**
 
-<p align="center">
+<p align="left">
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /></a>
@@ -47,15 +42,25 @@
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" /></a>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan1233&show_icons=true&locale=en&layout=compact" alt="mohan1233" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan1233&show_icons=true&locale=en" alt="mohan1233" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan1233&" alt="mohan1233" /></p>
+---
+### 🏅 **Achievements & Stats:**
+
+- 🏆 **GitHub Trophies:**
+- 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan1233" alt="GitHub Trophies" /></a>
+
+
 ---
 
-### 📈 **GitHub Stats:**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohan1233&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🎯 **Current Focus:**
 - Mastering **Full-stack development** with **JavaScript**, **React**, **Node.js**, **Spring Boot**, **Java**, and **MongoDB/MySQL**.
@@ -73,10 +78,4 @@
 
 ---
 
-### 🏅 **Achievements & Stats:**
 
-- 💬 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=mohan1233&label=Profile%20views&color=0e75b6&style=flat)
-- 🏆 **GitHub Trophies:**  
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohan1233" alt="GitHub Trophies" /></a>
-
----
